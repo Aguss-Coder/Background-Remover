@@ -20,4 +20,4 @@ Original
 
 Result
 
-<img src="/output/2023-09-20-02-27-09/originals/OIP (1).jpg" width="60%" height="60%">
+<img src="output/2023-09-20-02-27-09/OIP (1).jpg" width="60%" height="60%">
